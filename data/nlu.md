@@ -54,3 +54,19 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+
+## intent:about_location
+- what are the things to do in delhi?
+- tell me the top things to do in delhi
+- what can I explore in mumbai
+- what to do in mumbai?
+- famous places in goa
+- what to see in goa?
+- what to see in new york?
+- what to do in new york?
+- where to go in chennai?
+- tell me some places to visit in chennai
+- places to visit in barcelona
+- some places to visit in barcelona
+- I Want To Know More About Bangalore
+- I Want To Know More About Delhi

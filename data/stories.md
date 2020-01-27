@@ -29,3 +29,7 @@
 ## bot challenge
 * bot_challenge
   - utter_iamabot
+
+## ask about location
+* about_location
+  - action_about_location
